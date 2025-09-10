@@ -1,4 +1,4 @@
-# Adobe Reader Ripper
-A script to remove all versions of Adobe Reader from Windows NT 7 and prior.
+# Legacy Windows Software Installer Scripts
+Scripts that removed and installed various client software on Windows 2000 to Windows 7.
 
-This was uploaded for historical reasons and has not been updated since 07/27/2010. **Please do not attempt to use it.**
+These were uploaded for historical reasons. They likely will no longer work and most certainly have security issues. **Please do not attempt to use them. For reference only.**
